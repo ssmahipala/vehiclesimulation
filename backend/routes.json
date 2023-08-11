@@ -1,0 +1,5 @@
+{
+    "/scenarios/deleteAll": "/scenarios",
+    "/scenarios/:id": "/scenarios/:id"
+  }
+  

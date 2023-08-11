@@ -1,0 +1,81 @@
+{
+  "scenarios": [
+    {
+      "scenario_name": "ssss",
+      "scenario_time": "1111",
+      "id": 1,
+      "vehicleCount": 4
+    },
+    {
+      "scenario_name": "Scenario 2",
+      "scenario_time": "10",
+      "id": 2,
+      "vehicleCount": 3
+    }
+  ],
+  "vehicles": [
+    {
+      "scenario_id": 2,
+      "vehicle_name": "sdadasda",
+      "initial_position_x": 0,
+      "initial_position_y": 0,
+      "speed": 0,
+      "direction": "Backwards",
+      "id": 1
+    },
+    {
+      "scenario_id": 1,
+      "vehicle_name": "Testafter",
+      "initial_position_x": 0,
+      "initial_position_y": 0,
+      "speed": 0,
+      "direction": "Towards",
+      "id": 2
+    },
+    {
+      "scenario_id": 1,
+      "vehicle_name": "ewewewe",
+      "initial_position_x": 0,
+      "initial_position_y": 0,
+      "speed": 0,
+      "direction": "Downwards",
+      "id": 3
+    },
+    {
+      "scenario_id": 1,
+      "vehicle_name": "3",
+      "initial_position_x": "011",
+      "initial_position_y": "011",
+      "speed": "011",
+      "direction": "Backwards",
+      "id": 4
+    },
+    {
+      "scenario_id": 1,
+      "vehicle_name": "Test",
+      "initial_position_x": 0,
+      "initial_position_y": 0,
+      "speed": 0,
+      "direction": "Backwards",
+      "id": 5
+    },
+    {
+      "scenario_id": 2,
+      "vehicle_name": "dsdasdasdasd",
+      "initial_position_x": "0222",
+      "initial_position_y": "0222",
+      "speed": "0222",
+      "direction": "Upwards",
+      "id": 6
+    },
+    {
+      "scenario_id": 2,
+      "vehicle_name": "dsadasads",
+      "initial_position_x": "-1121212",
+      "initial_position_y": "021212",
+      "speed": "021212",
+      "direction": "Backwards",
+      "id": 7
+    }
+  ]
+}
